@@ -1,0 +1,28 @@
+{
+  "name": "node-bercon",
+  "description": "This is a NodeJS implementation of [BattleEye RCon specificaton](https://www.battleye.com/downloads/BERConProtocol.txt).",
+  "version": "0.0.1",
+  "main": "bercon.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrosTon1/node-bercon.git"
+  },
+  "keywords": [
+    "rcon",
+    "battleeye",
+    "nodejs"
+  ],
+  "author": "Antonin \"GrosTon1\" CLAUZIER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrosTon1/node-bercon/issues"
+  },
+  "homepage": "https://github.com/GrosTon1/node-bercon#readme",
+  "dependencies": {
+    "crc-32": "^1.2.0"
+  }
+}
